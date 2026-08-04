@@ -1,6 +1,6 @@
 # Welcome 👋
 
-<img src="https://stat-github.dinacostudio.ru/api?username=Grovvik&show_icons=true&theme=dark&count_private=true">
+<img src="https://github-stats-extended.vercel.app/api?username=Grovvik&show_icons=true&theme=dark&count_private=true">
 
 ## 🧪 Languages and Tools:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
